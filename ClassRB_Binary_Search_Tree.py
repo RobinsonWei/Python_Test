@@ -9,7 +9,7 @@
 		solveColor(newNode): 		Solove the color exception
 		insertTree(self,rootnode): 	Combine RB BST with a regualr BST 
 		deletenode(self,delNode): 	Del one node form RB BST
-		findkeyNode(self,key,rNode):Find all node in a tree with the same key as given, and return as a list the tree rooted at rNode
+		findkeyNode(self,key,rNode):	Find all node in a tree with the same key as given, and return as a list the tree rooted at rNode
 		delKeyNode(self,key): 		Find all node using the same key as given, and delete them all
 		findIthEle(self,i):		Find the i'th smallest element in the tree, if equal, return one of them
 		printSubTree(self,RNode):	print subtree rooted at RNode as a sorted list
